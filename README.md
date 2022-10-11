@@ -1,7 +1,7 @@
 # Alura-Plus
 Pratica HTML e CSS
 
-:pushpin: `Projeto realizado para pratica dos conceitos e aplicações de HTML e CSS em pagina estática`
+:pushpin: `Projeto realizado para prática dos conceitos e aplicações de HTML e CSS em pagina estática`
 
 <h2>HTML</h2>
 
