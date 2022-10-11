@@ -3,6 +3,8 @@ Pratica HTML e CSS
 
 :pushpin: `Projeto realizado para prática dos conceitos e aplicações de HTML e CSS em pagina estática`
 
+Pagina: https://willmpaim.github.io/Alura-Plus/
+
 <h2>HTML</h2>
 
 :wrench: Realizado as projeções de tags;
